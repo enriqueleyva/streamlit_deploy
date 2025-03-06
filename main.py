@@ -171,8 +171,4 @@ def main():
                 # etc.
  
 if __name__ == "__main__":
-<<<<<<< HEAD
     main()
-=======
-    main()
->>>>>>> 481de658e8820fdc6d83804a1426649a62094b52
